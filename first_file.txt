@@ -1,1 +1,3 @@
-isi data
+isi data first
+
+mengubah isi text first file.txt
